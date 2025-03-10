@@ -1,4 +1,4 @@
-📰 Fake News Detection System
+# 📰 Fake News Detection System
 This project implements a Fake News Detection System using Logistic Regression, Decision Tree, and a GPT Few-Shot Learning approach. The system classifies news articles as real or fake based on textual content, leveraging TF-IDF vectorization and pretrained language models.
 
 🚀 Key Features
